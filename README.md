@@ -1,12 +1,12 @@
 www.codigoexpresso.com.br
 
 
-CÛdigo da postagem Validar e Calcular o Digito verificador de CPF C#(CSharp)
+C√≥digo da postagem Validar e Calcular o Digito verificador de CPF C#(CSharp)
 
 ---
 
-Exemplo pr·tico da classe DÌgito verificador CPF em Visual Studio 2013
+Exemplo pr√°tico da classe D√≠gito verificador CPF em Visual Studio 2013
 
 
 
-Acesse o link direto da postagem em nossa p·gina http://codigoexpresso.com.br/Home/Postagagem/21
+Acesse o link direto da postagem em nossa p√°gina http://codigoexpresso.com.br/Home/Postagem/21
